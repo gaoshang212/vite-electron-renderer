@@ -17,7 +17,7 @@ $ npm install --save-dev @gsof/vite-electron-renderer
 ```javascript
 import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
-import electronRenderer from '@gsof/vite-electron-renderer';
+import electronRenderer from 'vite-electron-renderer';
 
 export default defineConfig({
     ...

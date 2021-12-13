@@ -1,0 +1,33 @@
+{
+    "name": "@gsof/vite-electron-renderer",
+    "version": "0.0.1",
+    "description": "Provides electron renederer externals support for Vite.",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "tsc",
+        "prepublish": "tsc"
+    },
+    "keywords": [
+        "vite",
+        "electron",
+        "renderer",
+        "plugin."
+    ],
+    "author": "gaoshang212",
+    "license": "MIT",
+    "devDependencies": {
+        "@types/estree": "^0.0.50",
+        "@types/node": "^16.11.12",
+        "typescript": "^4.5.2"
+    },
+    "dependencies": {
+        "acorn": "^8.6.0",
+        "es-module-lexer": "^0.9.3",
+        "magic-string": "^0.25.7"
+    },
+    "peerDependencies": {
+        "vite": "*"
+    }
+}

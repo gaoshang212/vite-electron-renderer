@@ -25,3 +25,7 @@ export default defineConfig({
     ...
 });
 ```
+
+## How to work
+convert import to require for node Modules. include builtinModules, and project dependencies.
+

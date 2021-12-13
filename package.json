@@ -16,6 +16,10 @@
         "plugin."
     ],
     "author": "gaoshang212",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/gaoshang212/vite-electron-renderer"
+    },
     "license": "MIT",
     "devDependencies": {
         "@types/estree": "^0.0.50",

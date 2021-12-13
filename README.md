@@ -1,6 +1,6 @@
 # vite-electron-renderer
 
-[![npm version](https://badge.fury.io/js/@gsof%2Fvite-electron-renderer)](https://badge.fury.io/js/@gsof%2Fvite-electron-renderer)
+[![npm version](https://badge.fury.io/js/vite-electron-renderer)](https://badge.fury.io/js/vite-electron-renderer)
 <br>
 Provides electron renederer externals support for Vite.
 

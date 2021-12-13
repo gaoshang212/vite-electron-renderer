@@ -1,5 +1,5 @@
 {
-    "name": "@gsof/vite-electron-renderer",
+    "name": "vite-electron-renderer",
     "version": "0.0.1",
     "description": "Provides electron renederer externals support for Vite.",
     "main": "dist/index.js",

@@ -9,7 +9,7 @@ Provides electron renederer externals support for Vite.
 Using npm:
 
 ```shell
-$ npm install --save-dev @gsof/vite-electron-renderer
+$ npm install --save-dev vite-electron-renderer
 ```
 
 ## Example

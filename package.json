@@ -13,7 +13,7 @@
         "vite",
         "electron",
         "renderer",
-        "plugin."
+        "plugin"
     ],
     "author": "gaoshang212",
     "repository": {
